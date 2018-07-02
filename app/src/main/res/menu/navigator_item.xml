@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_navigation_history"
+        android:enabled="true"
+        android:title="history"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_navigation_record"
+        android:enabled="true"
+        android:title="record"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_navigation_temp"
+        android:enabled="true"
+        android:title="temp"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="always" />
+
+</menu>
